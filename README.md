@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning ...<br>🎯 Goals: To get hired in nice comapany<br>🎲 Fun fact: I talk less work more</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning <br>🎯 Goals: To get hired in nice comapany<br>🎲 Fun fact: I talk less work more</p>
 
 ###
 
