@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kunj Suthar and I'm a Software Devloper from Idar,Gujarat</p>
+<p align="left">My name is Kunj Suthar and I'm a Software Developer from Gujarat</p>
 
 ###
 
